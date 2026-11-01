@@ -34,7 +34,7 @@ This repository contains all 15 laboratory assignments for the **HTML & CSS Deve
 ---
 
 ## 🚀 Live Preview / Portal
-Open [index.html](https://akhilonix.github.io/BCS554-HTML-CSS-Lab-Assignments/) in any browser to access the interactive student portal dashboard with links and previews for all 15 assignments.
+Open [Live](https://akhilonix.github.io/BCS554-HTML-CSS-Lab-Assignments/) in any browser to access the interactive student portal dashboard with links and previews for all 15 assignments.
 
 ## 🛠️ Repository Structure
 ```
